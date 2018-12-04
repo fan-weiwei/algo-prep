@@ -23,6 +23,18 @@ class Node:
         else:
             return self.next.__len__(count)
 
+    def __getitem__(self, index):
+        if index < 0:
+            return ValueError()
+
+        if index == 0:
+            return self.value
+
+        if self.next is None:
+            return ValueError()
+        else:
+            return self.next.__getitem__(index - 1)
+
 
 class LinkedList:
 
@@ -47,6 +59,11 @@ class LinkedList:
         return self.head.__len__()
 
 
+    def __getitem__(self, item):
+        return self.head.__getitem__(item)
+
+
+
 class LinkedListIterator:
 
     def __init__(self, head):
@@ -62,13 +79,21 @@ class LinkedListIterator:
             return value
 
 
+
 if __name__ == '__main__':
 
-    list = LinkedList(1)
-    list.append(2, 3)
-    list.append(4)
+    linked_list = LinkedList(1)
+    linked_list.append(2, 3)
+    linked_list.append(4)
 
-    print(len(list))
+    print(f'Length of list: {len(linked_list)}')
+    print(f'id()   :{id(linked_list)}')
+    print(f'type() :{type(linked_list)}')
 
-    for value in list:
+
+    print(f'Second Item : {linked_list[1]}')
+
+    
+
+    for value in linked_list:
         print(value)
