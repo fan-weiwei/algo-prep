@@ -9,9 +9,12 @@ def heapify(heap):
 def sift_down(heap, index):
 
     while index < len(heap) // 2:
+
         children = [2 * index + 1, 2 * index + 2]
         children = [(x, heap[x]) for x in children if x < len(heap)]
         children.sort(key=lambda x: x[1], reverse=False)
+
+        # we are guaranteed to have a value here since 2 * index + 1 < len(heap)
         c_index, c_value = children[0]
 
         if c_value < heap[index]:
@@ -61,7 +64,6 @@ def heap_pop(heap):
     sift_down(heap, 0)
 
     return min_val
-
 
 
 def parent_index(i):

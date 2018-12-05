@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b767973-81b7-4777-82af-ab2054482641" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/foundation/heap/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/foundation/graph/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/foundation/graph/random_graph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/foundation/segment_tree/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xin-era/scratch_pad/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py" afterPath="$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xin-era/foundation/heap/main.py" afterPath="$PROJECT_DIR$/xin-era/foundation/heap/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +26,9 @@
     <SUITE FILE_PATH="coverage/algo_prep$graph_bfs.coverage" NAME="graph_bfs Coverage Results" MODIFIED="1508240559317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph_bfs" />
     <SUITE FILE_PATH="coverage/algo_prep$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1508242079786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization" />
     <SUITE FILE_PATH="coverage/algo_prep$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1542753700569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/practice" />
-    <SUITE FILE_PATH="coverage/algo_prep$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1543413723036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/hash" />
+    <SUITE FILE_PATH="coverage/algo_prep$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1544035135458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/segment_tree" />
+    <SUITE FILE_PATH="coverage/algo_prep$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1544036275186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/scratch_pad" />
+    <SUITE FILE_PATH="coverage/algo_prep$reverse_linked_list.coverage" NAME="reverse_linked_list Coverage Results" MODIFIED="1544029330409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/koder_dojo" />
     <SUITE FILE_PATH="coverage/algo_prep$minTwoSlice.coverage" NAME="minTwoSlice Coverage Results" MODIFIED="1542762342266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
     <SUITE FILE_PATH="coverage/algo_prep$merging_lists.coverage" NAME="merging_lists Coverage Results" MODIFIED="1508234346835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge_lists" />
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_for_two_sum_SolutionTests_test_no_solution.coverage" NAME="Nosetests for two_sum.SolutionTests.test_no_solution Coverage Results" MODIFIED="1542754307925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
@@ -33,24 +41,15 @@
     <SUITE FILE_PATH="coverage/algo_prep$binary_tree_sort.coverage" NAME="binary_tree_sort Coverage Results" MODIFIED="1508237803048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_tree_sort" />
     <SUITE FILE_PATH="coverage/algo_prep$boggle.coverage" NAME="boggle Coverage Results" MODIFIED="1508228037588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boggle" />
     <SUITE FILE_PATH="coverage/algo_prep$change_maker.coverage" NAME="change_maker Coverage Results" MODIFIED="1508417804875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/change_maker" />
+    <SUITE FILE_PATH="coverage/algo_prep$random_graph.coverage" NAME="random_graph Coverage Results" MODIFIED="1544039017985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/graph" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/foundation/linked_list/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="4" lean-forward="false" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+            <state relative-caret-position="303">
+              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,11 +67,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binary_tree_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HK-era/binary_tree_sort/binary_tree_sort.py">
+      <file leaf-file-name="reverse_linked_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="225">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/segment_tree/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/graph/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random_graph.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/graph/random_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/scratch_pad/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -88,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="-507">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -101,38 +140,8 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-2010535109/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="3646" column="29" lean-forward="true" selection-start-line="3646" selection-start-column="29" selection-end-line="3646" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mushrooms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/mushrooms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minTwoSlice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/minTwoSlice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="37" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serialization.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HK-era/serialization/serialization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="-195">
+              <caret line="4163" column="8" lean-forward="false" selection-start-line="4163" selection-start-column="8" selection-end-line="4163" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -176,10 +185,15 @@
         <option value="$PROJECT_DIR$/xin-era/leetCode/two_sum.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/prefix_sums/mushrooms.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/prefix_sums/minTwoSlice.py" />
-        <option value="$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py" />
         <option value="$PROJECT_DIR$/xin-era/foundation/avl_tree/main2.py" />
         <option value="$PROJECT_DIR$/xin-era/foundation/hash/main.py" />
         <option value="$PROJECT_DIR$/xin-era/foundation/heap/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/segment_tree/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/scratch_pad/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/graph/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/graph/random_graph.py" />
       </list>
     </option>
   </component>
@@ -190,8 +204,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="325" />
-    <option name="y" value="33" />
+    <option name="x" value="744" />
+    <option name="y" value="23" />
     <option name="width" value="1110" />
     <option name="height" value="1017" />
   </component>
@@ -265,22 +279,13 @@
               <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
               <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="avl_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="koder_dojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
               <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="hash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="heap" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch_pad" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.random_graph">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,13 +339,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/hash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/scratch_pad" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algo-prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/hash/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/scratch_pad/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,74 +368,74 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/avl_tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/segment_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algo-prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/segment_tree/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/avl_tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algo-prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/avl_tree/main2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/graph/random_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="minTwoSlice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverse_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/koder_dojo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algo-prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/prefix_sums/minTwoSlice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.minTwoSlice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.random_graph" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.minTwoSlice" />
+        <item index="0" class="java.lang.String" itemvalue="Python.random_graph" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -480,10 +485,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="325" y="33" width="1110" height="1017" extended-state="0" />
-    <editor active="true" />
+    <frame x="744" y="23" width="1110" height="1017" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33063063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33063063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -520,11 +524,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cake/meetings/meetings.py" />
-    <entry file="file://$PROJECT_DIR$/change_maker/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/change_maker/change_maker.py" />
-    <entry file="file://$PROJECT_DIR$/love_rectangles/love_rect.py" />
-    <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/functools.py" />
     <entry file="file://$PROJECT_DIR$/cake/__init__.py" />
     <entry file="file://$PROJECT_DIR$/binary_tree_sort/binary_tree_sort.py" />
     <entry file="file://$PROJECT_DIR$/merge_lists/merging_lists.py" />
@@ -644,26 +643,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/foundation/hash/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-2010535109/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="3646" column="29" lean-forward="true" selection-start-line="3646" selection-start-column="29" selection-end-line="3646" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/foundation/avl_tree/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -678,10 +677,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
+    <entry file="file://$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/segment_tree/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-2010535109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="4163" column="8" lean-forward="false" selection-start-line="4163" selection-start-column="8" selection-end-line="4163" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/scratch_pad/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/graph/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/graph/random_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding />
         </state>
       </provider>
