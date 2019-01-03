@@ -10,7 +10,16 @@ class Node:
 
 
 class LinkedList:
-    pass
+
+    def __init__(self, *values):
+        self.head = None
+        self.append(values)
+
+
+    def append(self, *values):
+        pass
+
+
 
 if __name__ == '__main__':
     print('here')

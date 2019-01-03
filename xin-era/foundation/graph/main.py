@@ -1,29 +1,68 @@
+import random
+import pickle
+
+
 class Graph:
 
-    def __init__(self, n):
-        self.adjMatrix = [[-1] * n for _ in range(n)]
-        self.n = n
+    def load(self, path):
+       with open(path, 'rb') as file:
+           pickled = pickle.load(file)
+           self.graph = pickled.graph
+           self.bidirectional = pickled.bidirectional
 
-    def add_edge(self, i, j, cost=0):
-        if i not in range(self.n):
-            raise IndexError()
+    def save(self, path):
+        with open(path, 'wb') as file:
+            pickle.dump(self, file)
 
-        if j not in range(self.n):
-            raise IndexError()
+    def __init__(self, bidirectional=True):
+        self.graph = {}
+        self.bidirectional = bidirectional
 
-        self.adjMatrix[i][j] = cost
-        self.adjMatrix[j][i] = cost
 
+    def vertices(self):
+        return self.graph.keys()
+
+    def add_vertex(self, *vertex):
+        for v in vertex:
+            if v not in self.graph:
+                self.graph[v] = set()
+
+    def add_edge(self, source, sink):
+        if source == sink:
+            return
+        if source in self.graph and sink in self.graph:
+            self.graph[source].add(sink)
+            if self.bidirectional:
+                self.graph[sink].add(source)
+
+    def assign_random_edges(self, p):
+        if self.bidirectional:
+            p /= 2
+
+        for x in self.graph:
+            for y in self.graph:
+                if random.random() < p:
+                    self.add_edge(x, y)
+
+    def __str__(self):
+        str = ''
+        for x in self.graph:
+
+            str += '\n{} {}'.format(x, self.graph[x] or '_')
+        return str
 
 if __name__ == '__main__':
-    n = 5
-    graph = Graph(n)
-    graph.add_edge(0, 1)
-    graph.add_edge(0, 4)
-    graph.add_edge(1, 2)
-    graph.add_edge(1, 3)
-    graph.add_edge(1, 4)
-    graph.add_edge(2, 3)
-    graph.add_edge(3, 4)
+    generate = False
+
+    graph = Graph()
+    if generate:
+        graph.add_vertex('a', 'b', 'c', 'd', 'e', 'f')
+        graph.assign_random_edges(0.5)
+        graph.save('saved_graph.pickle')
+    else:
+        graph.load('saved_graph.pickle')
+
+    print(graph)
+
 
     
