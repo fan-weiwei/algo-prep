@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b767973-81b7-4777-82af-ab2054482641" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/xin-era/codility/prefix_sums/count_div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xin-era/codility/sorting/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xin-era/codility/sorting/distinct.py" beforeDir="false" afterPath="$PROJECT_DIR$/xin-era/codility/sorting/distinct.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +18,7 @@
     <SUITE FILE_PATH="coverage/algo_prep$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1508223703786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scratch" />
     <SUITE FILE_PATH="coverage/algo_prep$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1542753700569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/practice" />
     <SUITE FILE_PATH="coverage/algo_prep$boggle.coverage" NAME="boggle Coverage Results" MODIFIED="1508228037588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boggle" />
+    <SUITE FILE_PATH="coverage/algo_prep$disc.coverage" NAME="disc Coverage Results" MODIFIED="1546956751932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/sorting" />
     <SUITE FILE_PATH="coverage/algo_prep$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1508237091755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge_sort" />
     <SUITE FILE_PATH="coverage/algo_prep$random_graph.coverage" NAME="random_graph Coverage Results" MODIFIED="1544039017985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/graph" />
     <SUITE FILE_PATH="coverage/algo_prep$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1546213302581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/b_tree" />
@@ -53,18 +51,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/foundation/b_tree/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1340">
-              <caret line="221" column="24" selection-start-line="221" selection-start-column="24" selection-end-line="221" selection-end-column="24" />
-              <folding>
-                <element signature="e#4280#4293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/distinct.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -82,11 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="166">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="28" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/disc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -208,14 +203,15 @@
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/distinct.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/triangle.py" />
+        <option value="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
-    <option name="y" value="135" />
+    <option name="x" value="111" />
+    <option name="y" value="106" />
     <option name="width" value="1406" />
-    <option name="height" value="963" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -349,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.triangle">
+  <component name="RunManager" selected="Python.disc">
     <configuration name="count_div" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,6 +360,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/prefix_sums/count_div.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="disc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo-prep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,9 +461,11 @@
       <item itemvalue="Python.genomicRangeQuery" />
       <item itemvalue="Python.count_div" />
       <item itemvalue="Python.maximumTriplet" />
+      <item itemvalue="Python.disc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.disc" />
         <item itemvalue="Python.maximumTriplet" />
         <item itemvalue="Python.count_div" />
         <item itemvalue="Python.genomicRangeQuery" />
@@ -462,7 +482,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508219935455</updated>
-      <workItem from="1545700228357" duration="33925000" />
+      <workItem from="1545700228357" duration="38518000" />
     </task>
     <servers />
   </component>
@@ -499,10 +519,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33925000" />
+    <option name="totallyTimeSpent" value="38518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="135" width="1406" height="963" extended-state="0" />
+    <frame x="111" y="106" width="1406" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18841642" />
@@ -512,7 +532,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24799082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24884793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954075" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,7 +556,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/change_maker/__init__.py" />
     <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/functools.py" />
     <entry file="file://$PROJECT_DIR$/change_maker/change_maker.py" />
     <entry file="file://$PROJECT_DIR$/serialization/serialization.py" />
@@ -784,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/distinct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -805,10 +817,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/distinct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="166">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/disc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
         </state>
       </provider>
     </entry>
