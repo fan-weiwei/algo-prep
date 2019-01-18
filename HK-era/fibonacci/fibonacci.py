@@ -1,4 +1,4 @@
-# Calculate the nth fibonacci number
+# Calculate the nth permutations number
 import sys
 
 sys.setrecursionlimit(15000)

@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b767973-81b7-4777-82af-ab2054482641" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/cake/leaderboard/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/cake/permutations/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/codility/maximal_slice/max_double_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/codility/maximal_slice/max_slice_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/codility/stacks/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/foundation/heap/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/foundation/skip_list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/maximize_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/median_in_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/leetCode/first_missing_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/leetCode/jumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/leetCode/median_of_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/leetCode/rainwater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xin-era/leetCode/wildcard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK-era/fibonacci/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK-era/fibonacci/fibonacci.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +29,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_for_two_sum_SolutionTests.coverage" NAME="Nosetests for two_sum.SolutionTests Coverage Results" MODIFIED="1542754278042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$graph_bfs.coverage" NAME="graph_bfs Coverage Results" MODIFIED="1508240559317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph_bfs" />
+    <SUITE FILE_PATH="coverage/algo_prep$median_of_arrays.coverage" NAME="median_of_arrays Coverage Results" MODIFIED="1547154469482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$merging_lists.coverage" NAME="merging_lists Coverage Results" MODIFIED="1508234346835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge_lists" />
     <SUITE FILE_PATH="coverage/algo_prep$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1508223703786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scratch" />
     <SUITE FILE_PATH="coverage/algo_prep$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1542753700569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/practice" />
     <SUITE FILE_PATH="coverage/algo_prep$boggle.coverage" NAME="boggle Coverage Results" MODIFIED="1508228037588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boggle" />
+    <SUITE FILE_PATH="coverage/algo_prep$maximize_operations.coverage" NAME="maximize_operations Coverage Results" MODIFIED="1547489541006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook" />
     <SUITE FILE_PATH="coverage/algo_prep$disc.coverage" NAME="disc Coverage Results" MODIFIED="1546956751932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/sorting" />
     <SUITE FILE_PATH="coverage/algo_prep$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1508237091755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge_sort" />
+    <SUITE FILE_PATH="coverage/algo_prep$jumps.coverage" NAME="jumps Coverage Results" MODIFIED="1547295398247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$random_graph.coverage" NAME="random_graph Coverage Results" MODIFIED="1544039017985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/graph" />
     <SUITE FILE_PATH="coverage/algo_prep$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1546213302581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/b_tree" />
     <SUITE FILE_PATH="coverage/algo_prep$count_div.coverage" NAME="count_div Coverage Results" MODIFIED="1546792929155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
@@ -27,61 +45,86 @@
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_in_love_rect_py.coverage" NAME="Nosetests in love_rect.py Coverage Results" MODIFIED="1508418039118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/love_rectangles" />
     <SUITE FILE_PATH="coverage/algo_prep$change_maker.coverage" NAME="change_maker Coverage Results" MODIFIED="1508417804875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/change_maker" />
     <SUITE FILE_PATH="coverage/algo_prep$mushrooms.coverage" NAME="mushrooms Coverage Results" MODIFIED="1542759488789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
-    <SUITE FILE_PATH="coverage/algo_prep$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1545944568182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/scratch_pad" />
+    <SUITE FILE_PATH="coverage/algo_prep$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1547146593540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/cake/leaderboard" />
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_in_triangle_py.coverage" NAME="Nosetests in triangle.py Coverage Results" MODIFIED="1546950218482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/sorting" />
+    <SUITE FILE_PATH="coverage/algo_prep$nested.coverage" NAME="nested Coverage Results" MODIFIED="1546958451503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/stacks" />
     <SUITE FILE_PATH="coverage/algo_prep$binary_tree_sort.coverage" NAME="binary_tree_sort Coverage Results" MODIFIED="1508237803048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_tree_sort" />
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_in_two_sum_py.coverage" NAME="Nosetests in two_sum.py Coverage Results" MODIFIED="1542754071522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$generators2.coverage" NAME="generators2 Coverage Results" MODIFIED="1545700305502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/python" />
+    <SUITE FILE_PATH="coverage/algo_prep$wildcard.coverage" NAME="wildcard Coverage Results" MODIFIED="1547309640128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$tricks.coverage" NAME="tricks Coverage Results" MODIFIED="1545700322322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/python" />
+    <SUITE FILE_PATH="coverage/algo_prep$max_slice_sum.coverage" NAME="max_slice_sum Coverage Results" MODIFIED="1546962237795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/maximal_slice" />
     <SUITE FILE_PATH="coverage/algo_prep$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1546952199369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/algo_prep$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1508242079786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization" />
-    <SUITE FILE_PATH="coverage/algo_prep$main.coverage" NAME="main Coverage Results" MODIFIED="1546548692011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/graph" />
+    <SUITE FILE_PATH="coverage/algo_prep$main.coverage" NAME="main Coverage Results" MODIFIED="1547487910887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/skip_list" />
     <SUITE FILE_PATH="coverage/algo_prep$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1544048640572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/python" />
     <SUITE FILE_PATH="coverage/algo_prep$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1544035135458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/segment_tree" />
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_in_maximumTriplet_py.coverage" NAME="Nosetests in maximumTriplet.py Coverage Results" MODIFIED="1546794226212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/sorting" />
+    <SUITE FILE_PATH="coverage/algo_prep$rainwater.coverage" NAME="rainwater Coverage Results" MODIFIED="1547292229172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$consumers.coverage" NAME="consumers Coverage Results" MODIFIED="1544047329971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/python" />
+    <SUITE FILE_PATH="coverage/algo_prep$first_missing_positive.coverage" NAME="first_missing_positive Coverage Results" MODIFIED="1547312139208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
     <SUITE FILE_PATH="coverage/algo_prep$reverse_linked_list.coverage" NAME="reverse_linked_list Coverage Results" MODIFIED="1544029330409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/koder_dojo" />
     <SUITE FILE_PATH="coverage/algo_prep$minTwoSlice.coverage" NAME="minTwoSlice Coverage Results" MODIFIED="1542762342266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
+    <SUITE FILE_PATH="coverage/algo_prep$max_double_slice.coverage" NAME="max_double_slice Coverage Results" MODIFIED="1547141620608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/maximal_slice" />
     <SUITE FILE_PATH="coverage/algo_prep$maximumTriplet.coverage" NAME="maximumTriplet Coverage Results" MODIFIED="1546794382050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/sorting" />
     <SUITE FILE_PATH="coverage/algo_prep$Nosetests_for_two_sum_SolutionTests_test_no_solution.coverage" NAME="Nosetests for two_sum.SolutionTests.test_no_solution Coverage Results" MODIFIED="1542754307925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/leetCode" />
-    <SUITE FILE_PATH="coverage/algo_prep$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1546547441353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/b_tree" />
     <SUITE FILE_PATH="coverage/algo_prep$passingCars.coverage" NAME="passingCars Coverage Results" MODIFIED="1546690690517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
     <SUITE FILE_PATH="coverage/algo_prep$genomicRangeQuery.coverage" NAME="genomicRangeQuery Coverage Results" MODIFIED="1546790793551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
+    <SUITE FILE_PATH="coverage/algo_prep$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1547837670269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/foundation/heap" />
+    <SUITE FILE_PATH="coverage/algo_prep$median_in_stream.coverage" NAME="median_in_stream Coverage Results" MODIFIED="1547839882568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/distinct.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/linked_list/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="199">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/skip_list/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="345">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/triangle.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/maximize_operations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/median_in_stream.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xin-era/leetCode/rainwater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/disc.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/leetCode/median_of_arrays.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -89,53 +132,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="3674" column="8" selection-start-line="3674" selection-start-column="8" selection-end-line="3674" selection-end-column="8" />
+            <state relative-caret-position="209">
+              <caret line="4206" column="8" selection-start-line="4206" selection-start-column="8" selection-end-line="4206" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/passingCars.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="450">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/genomicRangeQuery.py">
+        <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="547">
+              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/mushrooms.py">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/random.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/minTwoSlice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xin-era/codility/prefix_sums/count_div.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -160,14 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/boggle.py" />
-        <option value="$PROJECT_DIR$/scratch/scratch.py" />
-        <option value="$PROJECT_DIR$/boggle/boggle.py" />
-        <option value="$PROJECT_DIR$/fibonacci/fibonacci.py" />
-        <option value="$PROJECT_DIR$/merge_lists/merging_lists.py" />
-        <option value="$PROJECT_DIR$/merge_sort/merge_sort.py" />
-        <option value="$PROJECT_DIR$/binary_tree_sort/binary_tree_sort.py" />
         <option value="$PROJECT_DIR$/graph_bfs/graph_bfs.py" />
         <option value="$PROJECT_DIR$/serialization/serialization.py" />
         <option value="$PROJECT_DIR$/cake/__init__.py" />
@@ -204,12 +221,27 @@
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/triangle.py" />
         <option value="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" />
+        <option value="$PROJECT_DIR$/xin-era/codility/stacks/nested.py" />
+        <option value="$PROJECT_DIR$/xin-era/codility/maximal_slice/max_slice_sum.py" />
+        <option value="$PROJECT_DIR$/xin-era/codility/maximal_slice/max_double_slice.py" />
+        <option value="$PROJECT_DIR$/xin-era/cake/fibonacci/main.opy.py" />
+        <option value="$PROJECT_DIR$/xin-era/cake/fibonacci/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/cake/leaderboard/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/leetCode/median_of_arrays.py" />
+        <option value="$PROJECT_DIR$/xin-era/leetCode/rainwater.py" />
+        <option value="$PROJECT_DIR$/xin-era/leetCode/jumps.py" />
+        <option value="$PROJECT_DIR$/xin-era/leetCode/wildcard.py" />
+        <option value="$PROJECT_DIR$/xin-era/leetCode/first_missing_positive.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/skip_list/main.py" />
+        <option value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/maximize_operations.py" />
+        <option value="$PROJECT_DIR$/xin-era/foundation/heap/main2.py" />
+        <option value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/median_in_stream.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
-    <option name="y" value="106" />
+    <option name="x" value="185" />
+    <option name="y" value="41" />
     <option name="width" value="1406" />
     <option name="height" value="960" />
   </component>
@@ -261,45 +293,13 @@
               <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
               <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
               <item name="foundation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="b_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="koder_dojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
               <item name="xin-era" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo-prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo-prep" type="462c0819:PsiDirectoryNode" />
-              <item name="xin-era" type="462c0819:PsiDirectoryNode" />
-              <item name="scratch_pad" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,7 +312,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -345,8 +345,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.disc">
-    <configuration name="count_div" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.median_in_stream">
+    <configuration name="first_missing_positive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,12 +354,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/leetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/prefix_sums/count_div.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/leetCode/first_missing_positive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="disc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -376,12 +376,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/skip_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/sorting/disc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/skip_list/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,7 +390,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="genomicRangeQuery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,12 +398,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/prefix_sums" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/foundation/heap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/prefix_sums/genomicRangeQuery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/foundation/heap/main2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,7 +412,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximumTriplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maximize_operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,12 +420,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/codility/sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/maximize_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="median_in_stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo-prep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/median_in_stream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,17 +480,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.triangle" />
-      <item itemvalue="Python.genomicRangeQuery" />
-      <item itemvalue="Python.count_div" />
-      <item itemvalue="Python.maximumTriplet" />
-      <item itemvalue="Python.disc" />
+      <item itemvalue="Python.first_missing_positive" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.maximize_operations" />
+      <item itemvalue="Python.median_in_stream" />
+      <item itemvalue="Python.main2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.disc" />
-        <item itemvalue="Python.maximumTriplet" />
-        <item itemvalue="Python.count_div" />
-        <item itemvalue="Python.genomicRangeQuery" />
+        <item itemvalue="Python.median_in_stream" />
+        <item itemvalue="Python.main2" />
+        <item itemvalue="Python.maximize_operations" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.first_missing_positive" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +506,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508219935455</updated>
-      <workItem from="1545700228357" duration="38518000" />
+      <workItem from="1545700228357" duration="82662000" />
     </task>
     <servers />
   </component>
@@ -519,29 +543,29 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38518000" />
+    <option name="totallyTimeSpent" value="82662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="106" width="1406" height="960" extended-state="0" />
-    <editor active="true" />
+    <frame x="185" y="41" width="1406" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18841642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18841642" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24884793" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954075" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24884793" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32949308" />
+      <window_info anchor="right" x="0" y="0" width="301" height="760" id="Documentation" side_tool="true" weight="0.32991204" />
+      <window_info anchor="right" auto_hide="true" id="SciView" show_stripe_button="false" type="FLOATING" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -556,44 +580,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/functools.py" />
-    <entry file="file://$PROJECT_DIR$/change_maker/change_maker.py" />
-    <entry file="file://$PROJECT_DIR$/serialization/serialization.py" />
-    <entry file="file://$PROJECT_DIR$/scratch/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/graph_bfs/graph_bfs.py" />
-    <entry file="file://$PROJECT_DIR$/love_rectangles/love_rect.py" />
-    <entry file="file://$PROJECT_DIR$/boggle/boggle.py" />
-    <entry file="file://$PROJECT_DIR$/binary_tree_sort/binary_tree_sort.py" />
-    <entry file="file://$PROJECT_DIR$/merge_sort/merge_sort.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HK-era/merge_lists/merging_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HK-era/cake/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HK-era/scratch/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1645354321/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/HK-era/serialization/serialization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1645354321/_collections.py" />
     <entry file="file://$PROJECT_DIR$/xin-era/foundation/hash/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -633,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/foundation/python/generators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="699">
@@ -654,24 +633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/foundation/linked_list/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/koder_dojo/reverse_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/two_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -703,13 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="130" column="8" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -803,13 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="3674" column="8" selection-start-line="3674" selection-start-column="8" selection-end-line="3674" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/maximumTriplet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -833,8 +784,151 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xin-era/codility/sorting/disc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        <state relative-caret-position="275">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/codility/stacks/nested.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="16" selection-start-line="16" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/codility/maximal_slice/max_slice_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/cake/fibonacci/main.opy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/codility/maximal_slice/max_double_slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/cake/permutations/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/cake/leaderboard/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/jumps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="77" column="36" lean-forward="true" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/wildcard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/first_missing_positive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/linked_list/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="4206" column="8" selection-start-line="4206" selection-start-column="8" selection-end-line="4206" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/skip_list/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/maximize_operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/foundation/heap/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/geeks_for_geeks/facebook/median_in_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/rainwater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xin-era/leetCode/median_of_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
